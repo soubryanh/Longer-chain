@@ -4,8 +4,8 @@ Crear una función o un programa en el cual dado un arreglo de una dimensión qu
 ## Tech skills
 
 **Javascript Vanilla**
-Arrow functions 
-Conditions
-Array manipulation
-Functional JS
+- Arrow functions 
+- Conditions
+- Array manipulation
+- Functional JS
 
